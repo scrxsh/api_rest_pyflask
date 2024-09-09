@@ -10,7 +10,7 @@ Una vez instalado Python en tu equipo (lo puedes obtener aquí: https://www.pyth
 pip install virtualenv
 ```
 
-2. Crea la carpeta del proyecto y abrela en VSCODE (preferiblemente)
+2. Descarga y descomprime la carpeta del proyecto y abrela en VSCODE (preferiblemente)
 3. Una vez ingresado en el IDE, abre una terminal powershell (preferiblemente) en VSCODE, puedes usar el comando CTRL+SHIFT+Ñ, posteriormente ingresa este comando para crear el entorno virtual. 
 
 ```
