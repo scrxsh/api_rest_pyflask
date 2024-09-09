@@ -35,7 +35,7 @@ pip install flask flask_mysqldb
 
 **Conexión a Base de Datos**
 
-El proyecto ya viene preconfigurado para una conexión con MYSQL, lo unico que debes hacer es cambiar los siguientes atributos segun tu necesidad. Reomendable utilizar XAMPP O WAMPP. 
+El proyecto ya viene preconfigurado para una conexión con MYSQL en el archivo config.py, lo unico que debes hacer es cambiar los siguientes atributos segun tu necesidad. Reomendable utilizar XAMPP O WAMPP. 
    
     MYSQL_HOST = 'localhost'
     MYSQL_USER = 'root'
